@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 # Trabalho com as seguintes SKILLS
 
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> <img loading="lazy" src="https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png?v=638245916460000000" width="60" height="60"/>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> <img loading="lazy" src="https://banner2.cleanpng.com/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg" width="40" height="40"/>
