@@ -29,18 +29,16 @@ Sou programador júnior e me apaixonei pela área em 2019 após ingressar em um 
 </br>
 <div display="inline-block">
  <p align="left">🤿 Faço parte do time de desenvolvedores da agência The Penser</p>
- <p align="left">📚 Estou no 3º semestre de Engenharia de Software
-  </br>
-  📫 Você pode falar comigo pelo whatsapp +55 (12)98109-4186
-  </br>
+ <p align="left">📚 Estou no 3º semestre de Engenharia de Software </p>
+ <p align="left"> 📫 Você pode falar comigo pelo whatsapp +55 (12)98109-4186 </p>
 
 <a href="https://instagram.com/ykaue.silvaa" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/kaue-lucas/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
 <p align="center">
-<a href="https://github.com/kaue-dotcom">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaue-dotcom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaue-dotcom&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+ <a href="https://github.com/kaue-dotcom">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaue-dotcom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaue-dotcom&layout=compact&langs_count=8&theme=algolia"/>
+ </a>
 </p>
