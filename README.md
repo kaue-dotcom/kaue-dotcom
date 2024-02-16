@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 
 # Trabalho com as seguintes SKILLS
 
-## Estou aprendendo
-
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40"/>
