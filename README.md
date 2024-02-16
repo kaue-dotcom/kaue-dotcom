@@ -38,7 +38,6 @@ Sou programador júnior e me apaixonei pela área em 2019 após ingressar em um 
 ##
 <p align="center">
  <a href="https://github.com/kaue-dotcom">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaue-dotcom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaue-dotcom&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
