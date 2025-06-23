@@ -10,8 +10,9 @@
 </br>
 
 ## Olá!!
+## Software Developer | Nuxt.Js | Vue.Js | Angular | React | Typescript | Nest | SCSS | HTML5
 
-Sou programador pleno e me apaixonei pela área em 2018 após ingressar em um curso técnico, desde então estou sempre fazendo cursos, estudando e me desenvolvendo como programador. Aprendi a trabalhar em equipe, o que me fez evoluir muito nesta área. Estou na Agência The Penser desde 2019, onde ajudo a desenvolver diversos tipos de projetos em diversas equipes de desenvolvimento. Estou a procura de novos ensinamentos e evoluir cada vez mais.
+Sou um desenvolvedor frontend e me apaixonei pela área em 2018 após ingressar em um curso técnico, desde então estou sempre fazendo cursos, estudando e me desenvolvendo como programador. Aprendi a trabalhar em equipe, o que me fez evoluir muito nesta área. Estou na Agência The Penser desde 2018, onde ajudo a cuidar de diversos projetos simultaneamente utilizando a metodologia Scrum, mantendo um alto padrão de qualidade e cumprindo prazos. Estou a procura de novos ensinamentos e evoluir cada vez mais.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
