@@ -22,7 +22,7 @@ Sou um desenvolvedor frontend e me apaixonei pela área em 2018 após ingressar 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do time de desenvolvedores da empresa Ânima Educação</p>
+ <p align="left">🤿 Faço parte do time de desenvolvedores da empresa Usabit Global | Ânima Educação</p>
  <p align="left">📚 Estou no 3º semestre de Engenharia de Software </p>
  <p align="left"> 📫 Você pode falar comigo pelo whatsapp +55 (12)98109-4186 </p>
 
