@@ -6,9 +6,6 @@
   </a>
 </div>
 
-</br>
-</br>
-
 ## Olá!!
 ## Software Developer | Nuxt.Js | Vue.Js | Angular | React | Typescript | Nest | SCSS | HTML5
 
